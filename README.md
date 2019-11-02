@@ -17,7 +17,7 @@ Projects from Design Wing
 2. Sumbit a file of low fi wireframes of all the screens. Prototyping is not required in this step.
 3. A final file ( or a link of the file ) with high fidelity prototype has to be submitted after the completion of above mentioned tasks. 
 
-Additional **30%** of the total points will be credited at the end (*only to those who complete all 3 tasks*). These points will be based on the design, idea and how close you were in solving the user's issues.
+Additional points will be credited at the end (*only to those who complete all 3 tasks*). These points will be based on the design, idea and how close you were in solving the user's issues.
 
 
 
