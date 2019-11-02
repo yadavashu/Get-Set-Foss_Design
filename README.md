@@ -12,11 +12,10 @@ Projects from Design Wing
 
 
 **TASKS TO BE COMPLETED :**
+
 1. Ideate and sketch your initial steps for the prototype, and submit the design of rough low fi wireframes.
-  
 2. Sumbit a file of low fi wireframes of all the screens. Prototyping is not required in this step.
-  This task will credit you **30 %** of the total points.
-3. A final file ( or a link of the file ) with high fidelity prototype has to be submitted after the completion of above mentioned tasks. This task will credit you **50 %** of the total points. 
+3. A final file ( or a link of the file ) with high fidelity prototype has to be submitted after the completion of above mentioned tasks. 
 
 Additional **30%** of the total points will be credited at the end (*only to those who complete all 3 tasks*). These points will be based on the design, idea and how close you were in solving the user's issues.
 
@@ -31,9 +30,7 @@ Additional **30%** of the total points will be credited at the end (*only to tho
 3. Include home screen with advertising partner, restautrants, offers/coupon, search bar/navigation bar, customer care, wallet.
 4. First you need to analyse all the issues that a consumer faces while ordering food. You have to solve those problems.
 5. Remember that your target user is Young Professionals staying away from home who order food daily (like us) . 
-6. Analyse the situation : There are 2 types of people, one who order food once a day(Dinner) and the other, those who order food twice (Lunch and Dinner).
-7. Make a list of all these issues and make sure that you come up with something that solves these issues. ( task 1 will credit you 20% points for the same ).
-
+7. Make a list of all these issues and make sure that you come up with something that solves these issues. 
 
 
 
